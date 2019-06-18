@@ -1,0 +1,16 @@
+PODS:
+  - iOSDropDown (0.2.9)
+
+DEPENDENCIES:
+  - iOSDropDown
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - iOSDropDown
+
+SPEC CHECKSUMS:
+  iOSDropDown: 7b6d6da416621747875b466804f661f31991e74c
+
+PODFILE CHECKSUM: afbff71b86f95517abe31f197f6a345b2ccd0ccf
+
+COCOAPODS: 1.7.0
